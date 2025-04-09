@@ -90,11 +90,14 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
     httpd = HTTPServer(server_address,myhandler)
     print("my webserver is running...")
     httpd.serve_forever()
+````
 
 
 ## OUTPUT:
-!simplewebserver/Screenshot 2025-03-28 212440.png
-!simplewebserver/Screenshot 2025-03-28 212714.png
+![alt text](<Screenshot 2025-04-09 161102.png>)
+![alt text](<Screenshot 2025-03-28 212714.png>)
+
+
     
 
 

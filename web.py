@@ -27,7 +27,6 @@ content="""
         </center>
     </body>
 </html>
-vsdv
 """
 class myhandler(BaseHTTPRequestHandler):
     def do_GET(self):
